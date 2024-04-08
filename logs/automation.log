@@ -1,0 +1,31 @@
+15:28:17.596 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+15:28:56.798 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+15:28:56.969 [main] INFO  testCases.TC_01 - checking the selected specialist
+15:28:57.339 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+15:29:52.365 [main] INFO  testCases.TC_01 - First five doctor detials entered succesfully in Excel
+15:30:40.308 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+15:30:40.313 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+15:31:42.550 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+15:31:44.344 [main] INFO  testCases.TC_03 - ****submit button disabled****
+15:32:50.594 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+15:32:52.674 [main] INFO  testCases.TC_04 - ****submit button enabled****
+15:33:08.464 [main] INFO  testCases.TC_04 - thank you msg displayed
+15:33:58.903 [main] INFO  testCases.TC_05 - ****Starting Testcase ten extracting doctor detials****
+15:38:12.082 [main] INFO  testCases.TC_05 - ****submit button disabled****
+15:38:12.082 [main] INFO  testCases.TC_05 - ***TestCase three excuted successfully***
+15:38:17.520 [main] INFO  testCases.TC_05 - ****submit button enabled****
+14:33:21.412 [main] INFO  testCases.TC_01 - **Practo Url opended Successfully**
+14:33:28.929 [main] INFO  testCases.TC_01 - ****checking the selected location ****
+14:33:29.025 [main] INFO  testCases.TC_01 - checking the selected specialist
+14:33:29.301 [main] INFO  testCases.TC_01 - giving the options in dropdowns
+14:35:14.184 [main] INFO  testCases.TC_02 - **Surgies page opended Successfully**
+14:35:14.191 [main] INFO  testCases.TC_02 - ****Surgieres list printed****
+14:36:13.916 [main] INFO  testCases.TC_03 - **Demo form page opended Successfully**
+14:36:17.404 [main] INFO  testCases.TC_03 - ****submit button disabled****
+14:37:15.353 [main] INFO  testCases.TC_04 - **Practo Url opended Successfully**
+14:37:17.662 [main] INFO  testCases.TC_04 - ****submit button enabled****
+14:37:24.411 [main] INFO  testCases.TC_04 - thank you msg displayed
+14:38:12.607 [main] INFO  testCases.TC_05 - ****Starting Testcase ten extracting doctor detials****
+14:38:47.925 [main] INFO  testCases.TC_05 - ****submit button disabled****
+14:38:47.925 [main] INFO  testCases.TC_05 - ***TestCase three excuted successfully***
+14:38:51.901 [main] INFO  testCases.TC_05 - ****submit button enabled****
